@@ -1,8 +1,20 @@
-# React + Vite
+# CML Programming Assignment - Frontend Documentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This document provides a comprehensive guide to setting up, running, and maintaining the frontend of the 'cml programming assignment' project. The frontend is build using Vite (React + JavaScript + TailwindCSS).
 
-Currently, two official plugins are available:
+## Prerequisites
+Ensure that the following are installed on your machine:
+- Node.js latest version
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+Clone the Repository
+```git clone "https://github.com/akashTharuka/cml-test-client.git"  ```
+Navigate to the project directory
+```cd cml-test-client```
+
+## Running the Application
+To run the application locally:
+```npm install```
+```npm run dev```
+
